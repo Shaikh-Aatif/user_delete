@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072252649952",
+    "project_id": "freelancer-project-391ed",
+    "storage_bucket": "freelancer-project-391ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072252649952:android:547db33e0a757d47cbab85",
+        "android_client_info": {
+          "package_name": "com.Skyline.deleting_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072252649952-qec1b9k50sg2eqeok09gn9sk464ib70p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7VsPdgxlO9VMxlIYJ-cZKMiaXklC58k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072252649952-qec1b9k50sg2eqeok09gn9sk464ib70p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
